@@ -1,5 +1,6 @@
 {
     "require": {
-        "symfony/css-selector": "^7.0"
+        "symfony/css-selector": "^7.0",
+        "symfony/var-dumper": "^7.0"
     }
 }
